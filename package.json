@@ -1,8 +1,8 @@
 {
-  "name": "hexo-symbols-count-time",
+  "name": "@wangjiezhe/hexo-symbols-count-time",
   "description": "Symbols count and time to read for articles.",
   "main": "index",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "engines": {
     "node": ">=10.9.0"
   },
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theme-next/hexo-symbols-count-time.git"
+    "url": "git+https://github.com/wangjiezhe/hexo-symbols-count-time.git"
   },
   "keywords": [
     "hexo",
@@ -23,7 +23,7 @@
   "author": "Ivan.Nginx <ivan.nginx@gmail.com> (https://almostover.ru)",
   "license": "LGPL-3.0",
   "dependencies": {
-    "hexo-util": "1.9.0"
+    "hexo-util": "^1.9.0 || ^2.7.0 || ^3.3.0"
   },
   "devDependencies": {
     "chai": "4.2.0",
